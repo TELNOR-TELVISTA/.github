@@ -20,14 +20,14 @@
 
 <table ALIGN="LEFT">
   <tr>
-    <td></td>
+    <td><img src="https://www.telvista.com/wp-content/uploads/2022/06/Logo-Telvista.png"></td>
     <td colspan="2">Tiempo en llamada</td>
     <td colspan="2">Contactacion</td>
     <td colspan="2">Contactacion campañas</td>
     <td colspan="2">Generacion OPNS</td>
   </tr>
   <tr>
-    <td rowspan="3">Base incentivo $2,350.00</td>
+    <td align="center" rowspan="3">Base incentivo $2,350.00</td>
     <td>Valor</td>
     <td>20.00%</td>
     <td>Valor</td>
@@ -56,6 +56,101 @@
     <td>Contactacion 70%</td>
     <td>Minimo</td>
     <td>16 OPN`s</td>
+  </tr>
+</table>
+
+
+## PRESUPUESTO TELNOR ABRIL 2023 (EJECUTIVOS)
+
+<table ALIGN="LEFT">
+  <tr>
+    <td><img src="https://www.telnor.com/documents/109993/0/logo-telnor.png/0b5c98e1-419e-0666-8d16-73fce7593eb9?t=1521827641000"></td>
+    <td align="center" colspan="2"></td>
+    <td align="center" colspan="3">CONECTIVIDAD</td>
+    <td align="center" colspan="3">IT</td>
+    <td align="center" colspan="3">INFINITUM</td>
+    <td align="center" colspan="3">WIFI</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td colspan="2">EJECUTIVOS</td>
+    <td align="center">META</td>
+    <td align="center">ACUMULADO</td>
+    <td align="center">LOGRO</td>
+    <td align="center">META</td>
+    <td align="center">ACUMULADO</td>
+    <td align="center">LOGRO</td>
+    <td align="center">META</td>
+    <td align="center">ACUMULADO</td>
+    <td align="center">LOGRO</td>
+    <td align="center">META</td>
+    <td align="center">ACUMULADO</td>
+    <td align="center">LOGRO</td>
+    
+  </tr>
+  
+  <tr>
+    <td align="center" rowspan="4">Base incentivo $2,000.00</td>
+    <td align="center" colspan="2">CECOR</td>
+    <td align="center">$23,496.00</td>
+    <td align="center">$...</td>
+    <td align="center">0%</td>
+    <td align="center">$160,257.00</td>
+    <td align="center">0</td>
+    <td align="center">0%</td>
+    <td align="center">117</td>
+    <td align="center">0</td>
+    <td align="center">0%</td>
+    <td align="center">180</td>
+    <td align="center">0</td>
+    <td align="center">0%</td>
+    
+  </tr>
+ 
+  <tr>
+    <td colspan="2">Teresa Acevedo</td>
+    <td align="center">$5,874.00</td>
+    <td align="center">$...</td>
+    <td align="center">0%</td>
+    <td align="center">$40,448.00</td>
+    <td align="center">0</td>
+    <td align="center">0%</td>
+    <td align="center">33</td>
+    <td align="center">0</td>
+    <td align="center">0%</td>
+    <td align="center">45</td>
+    <td align="center">0</td>
+    <td align="center">0%</td>
+  </tr>
+  <tr>
+    <td colspan="2">Ericka Alba</td>
+    <td align="center">$5,874.00</td>
+    <td align="center">$...</td>
+    <td align="center">0%</td>
+    <td align="center">$38,916.00</td>
+    <td align="center">0</td>
+    <td align="center">0%</td>
+    <td align="center">35</td>
+    <td align="center">0</td>
+    <td align="center">0%</td>
+    <td align="center">45</td>
+    <td align="center">0</td>
+    <td align="center">0%</td>
+  </tr>
+  <tr>
+    <td colspan="2">Georgette Cabello</td>
+    <td align="center">$5,874.00</td>
+    <td align="center">$...</td>
+    <td align="center">0%</td>
+    <td align="center">$40,448.00</td>
+    <td align="center">0</td>
+    <td align="center">0%</td>
+    <td align="center">18</td>
+    <td align="center">0</td>
+    <td align="center">0%</td>
+    <td align="center">45</td>
+    <td align="center">0</td>
+    <td align="center">0%</td>
   </tr>
 </table>
 
