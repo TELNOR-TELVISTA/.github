@@ -43,7 +43,7 @@
     <td>Meta</td>
     <td>20 Contactos diarios (CRM)</td>
     <td>Meta</td>
-    <td>Contratacion 80%</td>
+    <td>Contactacion 80%</td>
     <td>Meta</td>
     <td>20 OPN`s</td>
   </tr>
