@@ -16,7 +16,7 @@
 | :---: | :---: | :---: | :---: | :---: | :---: |
 
 
-## ESQUEMA DE INCENTIVO BONO TELVISTA
+## ESQUEMA DE INCENTIVO BONO TELVISTA (EJECUTIVOS)
 
 <table ALIGN="LEFT">
   <tr>
