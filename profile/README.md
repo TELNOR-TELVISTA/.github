@@ -21,41 +21,41 @@
 <table ALIGN="LEFT">
   <tr>
     <td><img src="https://www.telvista.com/wp-content/uploads/2022/06/Logo-Telvista.png"></td>
-    <td colspan="2">Tiempo en llamada</td>
-    <td colspan="2">Contactacion</td>
-    <td colspan="2">Contactacion campañas</td>
-    <td colspan="2">Generacion OPNS</td>
+    <td align="center" colspan="2">Tiempo en llamada</td>
+    <td align="center" colspan="2">Contactacion</td>
+    <td align="center" colspan="2">Contactacion campañas</td>
+    <td align="center"colspan="2">Generacion OPNS</td>
   </tr>
   <tr>
     <td align="center" rowspan="3">Base incentivo $2,350.00</td>
-    <td>Valor</td>
-    <td>20.00%</td>
-    <td>Valor</td>
-    <td>20.00%</td>
-    <td>Valor</td>
-    <td>30.00%</td>
-    <td>Valor</td>
-    <td>30.00%</td>
+    <td align="center">Valor</td>
+    <td align="center">20.00%</td>
+    <td align="center">Valor</td>
+    <td align="center">20.00%</td>
+    <td align="center">Valor</td>
+    <td align="center">30.00%</td>
+    <td align="center">Valor</td>
+    <td align="center">30.00%</td>
   </tr>
   <tr>
-    <td>Meta</td>
-    <td>3 Horas diarías</td>
-    <td>Meta</td>
-    <td>20 Contactos diarios (CRM)</td>
-    <td>Meta</td>
-    <td>Contactacion 80%</td>
-    <td>Meta</td>
-    <td>20 OPN`s</td>
+    <td align="center">Meta</td>
+    <td align="center">3 Horas diarías</td>
+    <td align="center">Meta</td>
+    <td align="center">20 Contactos diarios (CRM)</td>
+    <td align="center">Meta</td>
+    <td align="center">Contactacion 80%</td>
+    <td align="center">Meta</td>
+    <td align="center">20 OPN`s</td>
   </tr>
   <tr>
-    <td>Minimo</td>
-    <td>2 Horas diarías</td>
-    <td>Minimo</td>
-    <td>15 Contactos diarios (CRM) </td>
-    <td>Minimo</td>
-    <td>Contactacion 70%</td>
-    <td>Minimo</td>
-    <td>16 OPN`s</td>
+    <td align="center">Minimo</td>
+    <td align="center">2 Horas diarías</td>
+    <td align="center">Minimo</td>
+    <td align="center">15 Contactos diarios (CRM) </td>
+    <td align="center">Minimo</td>
+    <td align="center">Contactacion 70%</td>
+    <td align="center">Minimo</td>
+    <td align="center">16 OPN`s</td>
   </tr>
 </table>
 
