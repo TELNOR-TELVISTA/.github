@@ -96,16 +96,16 @@
   <tr>
     <td align="center" rowspan="4">Base incentivo $2,000.00</td>
     <td align="center" colspan="2">CECOR</td>
-    <td align="center">$23,496.00</td>
-    <td align="center">$...</td>
+    <td align="center">$17,622.00</td>
+    <td align="center">$-</td>
     <td align="center">0%</td>
-    <td align="center">$160,257.00</td>
-    <td align="center">0</td>
+    <td align="center">$119.809.00</td>
+    <td align="center">$0</td>
     <td align="center">0%</td>
-    <td align="center">117</td>
-    <td align="center">0</td>
+    <td align="center">86</td>
+    <td align="center">4</td>
     <td align="center">0%</td>
-    <td align="center">180</td>
+    <td align="center">135</td>
     <td align="center">0</td>
     <td align="center">0%</td>
     
